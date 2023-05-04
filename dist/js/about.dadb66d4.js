@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcalendar"]=self["webpackChunkcalendar"]||[]).push([[443],{4335:function(n,a,e){e.r(a),e.d(a,{default:function(){return d}});var r=e(3396);const u={class:"about"},t=(0,r._)("h1",null,"This is an about page",-1),c=[t];function s(n,a){return(0,r.wg)(),(0,r.iD)("div",u,c)}var i=e(89);const l={},o=(0,i.Z)(l,[["render",s]]);var d=o}}]);
+//# sourceMappingURL=about.dadb66d4.js.map
